@@ -1,4 +1,4 @@
-onst { Comment, Pizza } = require('../models');
+const { Comment, Pizza } = require('../models');
 
 const commentController = {
   // add comment to pizza
